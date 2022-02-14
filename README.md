@@ -163,7 +163,8 @@ Within each file, there are 8rows of signals which represent: 1-motor vibration,
   ![](./images/fig010.png)
 
  在都灵理工大学机械和航空航天工程系 DIRG实验室设置的钻机收集的数据，专门用于测试高速航空轴承，其加速度采集在可变转速，径向载荷和损伤水平，与温度测量一起，可作为开放存取数据提供。
- * 数据链接:(ftp://ftp.polito.it/people/DIRG_BearingData/)
+ * 数据链接:(ftp://ftp.polito.it/people/DIRG_BearingData/)【该版本似乎已失效】
+ * 最新数据链接:(https://zenodo.org/record/3559553#.Ygm92d_P23B)【作者提供的最新数据链接】
  * 论文链接:[The Politecnico di Torino rolling bearing test rig: Description and analysis of open access data](https://www.sciencedirect.com/science/article/pii/S0888327018306800?via%3Dihub)
  
  ## 16.巴西-里约热内卢联邦大学 MAFAULDA
